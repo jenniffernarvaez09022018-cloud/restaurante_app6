@@ -1,0 +1,8 @@
+[
+    {
+        "id_producto": 2001,
+        "nombre": "queso",
+        "precio": 15.0,
+        "categoria": "fresco"
+    }
+]
